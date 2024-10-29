@@ -14,6 +14,15 @@
   <a href="https://linkedin.com/in/sohaib-amir-8bba7a230/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://x.com/Sohaib844590610" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/X_%28platform%29_logo.svg/1200px-X_%28platform%29_logo.svg.png" alt="X" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/sohaib.amir.946" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@GameXRants22" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
