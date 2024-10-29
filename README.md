@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=msohaib-maker&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 💬 **Ask me about:** Android, Java, Unity
+- 💬 **Ask me about:** Android, Java, Unity, JavaScript, Next JS, React JS, Three JS, Moodle, PHP
 - 📫 **Reach me at:** [afzalsohaib59@gmail.com](mailto:afzalsohaib59@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
