@@ -106,6 +106,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msohaib-maker&theme=tokyonight" />
 </p>
 
+## CoderLegion Stats
+
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/Sohaib.svg)](https://coderlegion.com/user/Sohaib)
+
 ---
 
 ## 🧭 Current Focus
